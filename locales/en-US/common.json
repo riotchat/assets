@@ -33,9 +33,20 @@
 		"name": "It's time to speak up.",
 
 		"communities": {
-			"note": "Overwatch and the Overwatch logo are trademarks of Blizzard Entertainment.",
+			"overwatch-note": "Overwatch and the Overwatch logo are trademarks of Blizzard Entertainment.",
+			"autochess-note": "AutoChess and the AutoChess logo are trademarks of Drodo Studios.",
+			"minecraft-note": "Minecraft is a trademark of Mojang.",
+			"terraria-note": "Terraria is a trademark of RE-LOGIC.",
+
 			"text": "With Riot Communities, you can join a server based on your favorite game. Communities have their own events and even giveaways. It's a match made in heaven. So be there or be square.",
-			"title": "The whole gang's here."
+			"title": "The whole gang's here.",
+			"discover": "Discover Servers"
+		},
+		"invite": {
+			"note": "You have been invited to join",
+			"online": "Online",
+			"members": "Members",
+			"join": "Join"
 		},
 		"crosschat": {
 			"text": "Not entirely convinced yet? You can choose to chat with your friends, even if they use a different chat app altogether. Connect a channel from your server to create a bridge between you and your friends, even when you're not on the same platform.",
@@ -199,6 +210,36 @@
 		}
 
 	},
+
+	"about": {
+        "name": "About us",
+        "title": "",
+        "text1": "",
+        "text2": "",
+        "subtitle": "From your first dirt block, to the greatest guild you have ever played with, we all play hundreds of games and we know how important communication is, We at Riot strive to create a free and open platform allowing communities to thrive and to be fully transparent with our users. We believe everyone should have total freedom over how they talk with each other.",
+
+        "stats": {
+            "title": "Who's using Riot?",
+            "subtitle": "Hint: it's more people than you might think."
+        },
+
+        "team": {
+            "title": "Our Team",
+            "subtitle": "The Masterminds behind Riot."
+        },
+
+        "contributors": {
+            "title": "Contributors",
+            "subtitle": "The amazing people that helped Riot become what it is today.",
+            "note": "We recognize ✨ All Contributors. Learn more"
+        },
+
+        "work": {
+            "title": "Work",
+            "subtitle": "Come make Riot happen with us. Check out our open positions:",
+            "note": "View more open positions"
+        }
+    },
 
 	"guidelines": {
 		"title": "Community Guidelines",

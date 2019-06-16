@@ -33,9 +33,19 @@
 		"name": "Je čas se vzbouřit.",
 
 		"communities": {
-			"note": "Overwatch a logo Overwatch jsou ochranné známky společnosti Blizzard Entertainment.",
+			"overwatch-note": "Overwatch a logo Overwatch jsou ochranné známky společnosti Blizzard Entertainment.",
+			"autochess-note": "AutoChess a logo AutoChess jsou ochranné známky společnosti Drodo Studios.",
+			"minecraft-note": "Minecraft je ochranná známka společnosti Mojang.",
+			"terraria-note": "Terraria je ochranná známka společnosti Re-Logic.",
 			"text": "S Riot Komunitami se můžete připojit k serveru založenému na vaší oblíbené hře. Komunity konají své vlastní události i vlastní soutěže. Je to jako by tvůj vysněný sen byl splněn. Tak nebuď labuť a připoj se.",
-			"title": "Je tu tvá oblíbená parta."
+			"title": "Je tu tvá oblíbená parta.",
+			"discover": "Objevte Komunity"
+		},
+		"invite": {
+			"note": "Byli jste pozvání do komunity",
+			"online": "online",
+			"members": "členů",
+			"join": "Připojit"
 		},
 		"crosschat": {
 			"text": "Ještě nejsi zcela přesvědčen? Můžeš se rozhodnout chatovat se svými přáteli, a to i v případě, že používají jinou aplikaci pro chat. Připoj kanál ze svého serveru a vytvoř jakýsi most mezi tebou a tvými přáteli, i když nejste na stejné platformě.",
@@ -191,6 +201,36 @@
 		}
 
 	},
+
+	"about": {
+        "name": "O nás",
+        "title": "",
+        "text1": "",
+        "text2": "",
+        "subtitle": "Od svého prvního hliněného bloku, k největšímu týmu, s jakým jste kdy hráli, hrajeme stovky her a víme, jak důležitá je komunikace. My v Riot se snažíme vytvořit bezplatnou a otevřenou platformu umožňující komunitám prosperovat a být plně transparentní. s našimi uživateli. Věříme, že každý by měl mít úplnou svobodu nad tím, jak si navzájem mluví.",
+
+        "stats": {
+            "title": "Kdo používá Riot?",
+            "subtitle": "Tip: je to o dost více lidí, než si myslíš."
+        },
+
+        "team": {
+            "title": "Náš tým",
+            "subtitle": "Ti, kteří stojí za Riotem."
+        },
+
+        "contributors": {
+            "title": "Přispěvatelé",
+            "subtitle": "Zde jsou napsaní úžasní lidé, kteří pomohli Riotu stát se tím, čím je dnes.",
+            "note": "We recognize ✨ All Contributors. Learn more"
+        },
+
+        "work": {
+            "title": "Práce",
+            "subtitle": "Pojďte dělat Riot s námi. Podívejte se na naše otevřené pozice:",
+            "note": "Zobrazit více pracovních pozic"
+        }
+    },
 
 	"guidelines": {
 		"name": "Zásady komunity",
