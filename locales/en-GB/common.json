@@ -110,7 +110,11 @@
 		"opensource": "Open-source",
 		"company": "Company",
 		"about": "About",
-		"jobs": "Jobs"
+		"jobs": "Jobs",
+		"resources": "Resources",
+		"guidelines": "Guidelines",
+		"terms": "Terms",
+		"support": "Support"
 	},
 
 	"developers": {

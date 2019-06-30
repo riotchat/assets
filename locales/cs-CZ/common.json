@@ -109,7 +109,11 @@
 		"opensource": "Open-source",
 		"company": "Společnost",
 		"about": "O nás",
-		"jobs": "Práce"
+		"jobs": "Práce",
+		"resources": "Zdroje",
+		"guidelines": "Pravidla",
+		"terms": "Podmínky",
+		"support": "Podpora"
 	},
 
 	"developers": {

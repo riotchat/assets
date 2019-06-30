@@ -249,5 +249,12 @@
 			"acceptable": "Acceptable Usage",
 			"p1": "Riot can cater to your community, guild, game server or your top-secret gamer group. We encourage you to:"
 		}
+	},
+
+	"comingsoon": {
+		"title": "Coming soon!",
+		"subtitle1-1": "We're working around the clock to make Riot a reality.",
+		"subtitle1-2": "We're working around the clock to create more awesome stuff.",
+		"subtitle2": "Stay tuned!"
 	}
 }
